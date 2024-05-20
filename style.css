@@ -12,6 +12,14 @@ header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+/*
+*table {
+    color: #3ba3db;
+    margin: 0;
+    padding:0;
+   box-sizing: border-box;
+}
+*/
 .autore {
     font-style: italic;
 }
@@ -24,5 +32,11 @@ header {
 .lorem {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: justify;
-    
+
+}
+
+.collegamenti {
+    color:darkgray;
+}
+
 }
