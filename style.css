@@ -20,3 +20,9 @@ header {
     font-style: normal;
     color: cyan;
 }
+
+.lorem {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    
+}
